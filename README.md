@@ -18,5 +18,7 @@ Patient,Admin and Doctor are Users of the system
 Admin : can add or update or delete Hospitals,Rooms,Contacts 
 Doctor : can add his TimingWork and edit his profile in Hospital 
 
+Technology stack used -->> ASP.Net Core MVC, Blazor, EFCore, LiNQ
+
 It is just the first realase. 
 In the future i will add more features and continue building the project
