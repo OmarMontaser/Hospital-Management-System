@@ -1,0 +1,17 @@
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalRepositories.deps.json
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalRepositories.runtimeconfig.json
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalRepositories.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalRepositories.pdb
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.csproj.AssemblyReference.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.AssemblyInfoInputs.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.AssemblyInfo.cs
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\refint\HospitalRepositories.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.pdb
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.genruntimeconfig.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\ref\HospitalRepositories.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalModels.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\bin\Debug\net7.0\HospitalModels.pdb
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalRepositories\obj\Debug\net7.0\HospitalRepositories.csproj.CopyComplete

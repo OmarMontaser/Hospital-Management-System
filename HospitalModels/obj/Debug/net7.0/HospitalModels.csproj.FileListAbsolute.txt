@@ -1,0 +1,12 @@
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\bin\Debug\net7.0\HospitalModels.deps.json
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\bin\Debug\net7.0\HospitalModels.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\bin\Debug\net7.0\HospitalModels.pdb
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.csproj.AssemblyReference.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.AssemblyInfoInputs.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.AssemblyInfo.cs
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.csproj.CoreCompileInputs.cache
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\refint\HospitalModels.dll
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\HospitalModels.pdb
+C:\Users\Montaser\OneDrive\Desktop\Hospital\HospitalModels\obj\Debug\net7.0\ref\HospitalModels.dll
